@@ -1,25 +1,9 @@
-# ReduxSimpleStarter
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+This is a video player interface written using React and calls to the Youtube API.
 
-### Getting Started
-
-There are two methods for getting started with this repo.
-
-#### Familiar with Git?
-Checkout this repo, install dependencies, then start the gulp process with the following:
-
-```
-> git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
-> cd ReduxSimpleStarter
-> npm install
-> npm start
-```
-
-#### Not Familiar with Git?
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
-
-```
-> npm install
-> npm start
-```
+*For Developers*
+- Make sure you have NPM and Node.js installed. If you don't, follow [these instructions](https://github.com/ga-wdi-lessons/mean-intro/blob/master/setup.md).
+- After forking and cloning this repo, be sure to run the following commands in your terminal:
+  - `npm install`
+  - `npm start`
+- Navegate to localhost:8080 in the broswer to see the app run
